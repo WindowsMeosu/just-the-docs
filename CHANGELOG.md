@@ -3,6 +3,13 @@
 An enhanced clone of [Just-The-Docs](https://github.com/just-the-docs/just-the-docs).
 
 ```
+
+themetest
+
+nomsg
+```
+
+```
 update `deploy.yml`
 
 no msg
